@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/TerraPipe.Core/TerraPipe.Core.csproj" />
+  <Project Path="src/TerraPipe.Cli/TerraPipe.Cli.csproj" />
+  <Project Path="../TerrariaHeadless/src/TerrariaHeadless.Core/TerrariaHeadless.Core.csproj" />
+</Solution>
